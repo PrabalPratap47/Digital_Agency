@@ -1,16 +1,41 @@
-<<<<<<< HEAD
-# React + Vite
+🌐 Modern Digital Agency Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully animated Digital Agency Website built with React JS & Tailwind CSS, combining sleek design with smooth interactivity.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌓 Dark & Light Mode Toggle – seamless theme switching.
 
-## Expanding the ESLint configuration
+⏳ Loading Animation – engaging intro before content loads.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Digital_Agency
->>>>>>> eb2504072e725111490f81790397fc09d5da24a5
+🎨 Service Cards with Hover Effects – animated borders, glowing highlights, and smooth transitions.
+
+🖱️ Custom Animated Cursor – inner & outer rings that move with the pointer.
+
+🎬 Fully Animated Sections – fade-in, slide, and parallax-style page transitions.
+
+📩 Contact Form – integrated to send user queries via email.
+
+📱 Responsive Design – optimized for all screen sizes.
+
+🚀 Tech Stack
+
+React JS ⚛️
+
+Tailwind CSS 🎨
+
+Framer Motion / GSAP (for animations)
+
+EmailJS / Nodemailer (for contact form)
+
+📷 Preview
+
+<img width="1917" height="882" alt="image" src="https://github.com/user-attachments/assets/cbee6e02-3c0c-48cd-8e64-2a85dff2d389" />
+
+🌟 Live Demo
+
+👉 https://digitalagency4you.netlify.app/
+
+🌟 Live Demo
+
+👉 Your Deployed Link
