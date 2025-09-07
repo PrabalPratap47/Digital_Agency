@@ -1,6 +1,6 @@
 🌐 Modern Digital Agency Website
 
-A fully animated Digital Agency Website built with React JS & Tailwind CSS, combining sleek design with smooth interactivity.
+        A fully animated Digital Agency Website built with React JS & Tailwind CSS, combining sleek design with smooth interactivity.
 
 ✨ Features
 
@@ -20,13 +20,13 @@ A fully animated Digital Agency Website built with React JS & Tailwind CSS, comb
 
 🚀 Tech Stack
 
-  React JS ⚛️
-  
-  Tailwind CSS 🎨
-  
-  Framer Motion / GSAP (for animations)
-  
-  EmailJS / Nodemailer (for contact form)
+          React JS ⚛️
+          
+          Tailwind CSS 🎨
+          
+          Framer Motion / GSAP (for animations)
+          
+          EmailJS / Nodemailer (for contact form)
 
 📷 Preview
 
@@ -40,5 +40,5 @@ A fully animated Digital Agency Website built with React JS & Tailwind CSS, comb
 
 🌟 Live Demo 🌟
 
-👉 https://digitalagency4you.netlify.app/
+        👉 https://digitalagency4you.netlify.app/
 
