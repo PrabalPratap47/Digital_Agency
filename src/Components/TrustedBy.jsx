@@ -22,7 +22,7 @@ export const TrustedBy = () => {
             initial="hidden"
             whileInView="visible"
             transition={{staggerChildren:0.1}}
-            viewport={{once:true, amount:0.3}}
+            viewport={{once:true, amount:0.4}}
         className='flex flex-wrap items-center justify-center gap-10 m-4'>
         {company_logos.map((logo, index) =>(
             
